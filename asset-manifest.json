@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pruebatareasreact/static/css/main.218a1002.css",
+    "main.js": "/pruebatareasreact/static/js/main.58074520.js",
+    "index.html": "/pruebatareasreact/index.html",
+    "main.218a1002.css.map": "/pruebatareasreact/static/css/main.218a1002.css.map",
+    "main.58074520.js.map": "/pruebatareasreact/static/js/main.58074520.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.218a1002.css",
+    "static/js/main.58074520.js"
+  ]
+}
